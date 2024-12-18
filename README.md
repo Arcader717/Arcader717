@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Arcader717
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Discord bots and Dashboards
+- 🌱 I’m currently learning how to host a Discord Bot :)
+- 💞️ I’m not looking to collaborate on anything. Sorry
+- 📫 Don't try to reach out. I won't respond. Sorry
 - Working on the DisOAuth project
 
 <!---
